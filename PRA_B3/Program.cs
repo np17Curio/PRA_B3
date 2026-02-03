@@ -14,6 +14,11 @@
             string adress = Console.ReadLine();
 
             Console.WriteLine($"Je naam is {name}, je bent {age} jaar oud en je woont op {adress}");
+
+            Console.WriteLine("Druk op een toets om af te sluiten");
+            Console.ReadKey();
+
+
         }
     }
 }

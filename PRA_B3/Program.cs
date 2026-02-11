@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Voer je naam in");
+            Console.WriteLine("Voer je naam in nu");
             string name = Console.ReadLine();
 
             Console.WriteLine("Voer je leeftijd in");

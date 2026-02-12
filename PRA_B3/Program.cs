@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welkom bij.....");
+            Console.WriteLine("Welkom bij....h.");
             Console.WriteLine("Voer je naam in nu");
             string name = Console.ReadLine();
 
